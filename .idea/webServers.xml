@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="480b6d06-b3e6-4fb5-8c04-24265c304df4" name="new" url="http://home.testmysite.pp.ua">
+        <fileTransfer rootFolder="/public_html" host="31.131.19.104" port="21">
+          <advancedOptions>
+            <advancedOptions keepAliveTimeout="0" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
